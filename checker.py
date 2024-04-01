@@ -19,3 +19,4 @@ while standin == 0:
     if checker > 3:
         print("password is complex")
     print (checker)
+    
